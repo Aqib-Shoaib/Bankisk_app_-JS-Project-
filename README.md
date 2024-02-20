@@ -1,1 +1,1 @@
-# Bankisk_app_-JS-Project-
+This is a JS project basically in which I was provided with html, css files and other relevant data, I followed a course of JS whose copyright can be found at the footer of the project hopefully. While following the course, I implemented the cool functionalities which you can check by checking js code. For better understanding, also visit the html, css files so that you can understand the project in a better way.
